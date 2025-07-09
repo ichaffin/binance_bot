@@ -31,8 +31,17 @@ CREATE TABLE IF NOT EXISTS operaciones (
 conn.commit()
 
 # === Binance ===
+#def get_client():
+#    return Client(os.getenv("BINANCE_API_KEY"), os.getenv("BINANCE_API_SECRET"))
+
 def get_client():
-    return Client(os.getenv("BINANCE_API_KEY"), os.getenv("BINANCE_API_SECRET"))
+    api_key = os.getenv("BINANCE_API_KEY")
+    api_secret = os.getenv("BINANCE_API_SECRET")
+    print(f"🔑 BINANCE_API_KEY: {api_key}")
+    print(f"🔑 BINANCE_API_SECRET: {api_secret}")
+    if not api_key or not api_secret:
+        raise ValueError("❌ API_KEY o API_SECRET no están definidos")
+    return Client(api_key, api_secret)
 
 # === Get data ===
 def get_data(client, symbol, short_window, long_window):
