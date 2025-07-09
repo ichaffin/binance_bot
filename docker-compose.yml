@@ -1,0 +1,19 @@
+version: "3.8"
+
+services:
+  bot_cruce_ma:
+    build:
+      context: .
+    env_file:
+      - .env
+    volumes:
+      - ./logs:/app/logs
+      - ./db:/app/db
+
+  dashboard:
+    build:
+      context: ./dashboard
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./db:/app/db
