@@ -1,63 +1,22 @@
-2025-07-09 04:34:52,957 - INFO - === BOT CRUCE MA - INICIANDO ===
-2025-07-09 04:34:52,958 - INFO - Enviando correo...
-2025-07-09 04:34:56,458 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
-2025-07-09 04:34:57,712 - INFO - Sin señal para BTCUSDT
-2025-07-09 04:34:58,472 - INFO - Sin señal para ETHUSDT
-2025-07-09 04:34:58,472 - INFO - === BOT CRUCE MA - FINALIZADO ===
-2025-07-09 05:24:41,793 - INFO - === BOT CRUCE MA - INICIANDO ===
-2025-07-09 05:24:41,794 - INFO - Enviando correo...
-2025-07-09 05:24:44,618 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
-2025-07-09 05:24:46,272 - INFO - Sin señal para BTCUSDT
-2025-07-09 05:24:46,933 - INFO - Sin señal para ETHUSDT
-2025-07-09 05:24:46,934 - INFO - === BOT CRUCE MA - FINALIZADO ===
-2025-07-09 05:26:01,024 - INFO - === BOT CRUCE MA - INICIANDO ===
-2025-07-09 05:26:01,025 - INFO - Enviando correo...
-2025-07-09 05:26:03,690 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
-2025-07-09 05:26:05,015 - INFO - Sin señal para BTCUSDT
-2025-07-09 05:26:05,667 - INFO - Sin señal para ETHUSDT
-2025-07-09 05:26:05,667 - INFO - === BOT CRUCE MA - FINALIZADO ===
-2025-07-09 05:26:50,407 - INFO - === BOT CRUCE MA - INICIANDO ===
-2025-07-09 05:26:50,408 - INFO - Enviando correo...
-2025-07-09 05:26:53,718 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
-2025-07-09 05:26:55,154 - INFO - Sin señal para BTCUSDT
-2025-07-09 05:26:55,785 - INFO - Sin señal para ETHUSDT
-2025-07-09 05:26:55,786 - INFO - === BOT CRUCE MA - FINALIZADO ===
-2025-07-09 14:45:47,145 - INFO - === BOT CRUCE MA - INICIANDO ===
-2025-07-09 14:45:47,147 - INFO - Enviando correo...
-2025-07-09 14:45:50,403 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
-2025-07-09 14:45:52,174 - INFO - Sin señal para BTCUSDT
-2025-07-09 14:45:53,008 - INFO - Sin señal para ETHUSDT
-2025-07-09 14:45:53,008 - INFO - === BOT CRUCE MA - FINALIZADO ===
-2025-07-09 12:23:46,924 - INFO - === BOT CRUCE MA - INICIANDO ===
-2025-07-09 12:23:46,925 - INFO - Enviando correo...
-2025-07-09 12:23:49,880 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
-2025-07-09 12:23:51,637 - INFO - Sin señal para BTCUSDT
-2025-07-09 12:23:52,363 - INFO - Sin señal para ETHUSDT
-2025-07-09 12:23:52,363 - INFO - === BOT CRUCE MA - FINALIZADO ===
-2025-07-09 13:06:11,651 - INFO - === BOT CRUCE MA - INICIANDO ===
-2025-07-09 13:06:11,652 - INFO - Enviando correo...
-2025-07-09 13:06:14,500 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
-2025-07-09 13:06:16,355 - INFO - Sin señal para BTCUSDT
-2025-07-09 13:06:17,102 - INFO - Sin señal para ETHUSDT
-2025-07-09 13:06:17,103 - INFO - === BOT CRUCE MA - FINALIZADO ===
-2025-07-09 13:06:29,587 - INFO - === BOT CRUCE MA - INICIANDO ===
-2025-07-09 13:06:29,588 - INFO - Enviando correo...
-2025-07-09 13:06:32,421 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
-2025-07-09 13:06:33,658 - INFO - Sin señal para BTCUSDT
-2025-07-09 13:06:34,307 - INFO - Sin señal para ETHUSDT
-2025-07-09 13:06:34,307 - INFO - === BOT CRUCE MA - FINALIZADO ===
+/bin/sh: docker-compose: command not found
+/bin/sh: docker-compose: command not found
+/bin/sh: docker-compose: command not found
+time="2025-07-09T21:10:07-03:00" level=warning msg="Found orphan containers ([bot_test-dashboard-1 bot_test-bot_cruce_ma-run-6d57b419bc3b bot_test-bot_cruce_ma-run-2a8e9098e614 bot_test-bot_cruce_ma-run-5cfca5460b81 bot_test-bot_cruce_ma-run-e40d9c98dbd5 bot_test-bot_cruce_ma-run-38d7d083fd84]) for this project. If you removed or renamed this service in your compose file, you can run this command with the --remove-orphans flag to clean it up."
 2025-07-09 21:10:11,247 - INFO - === BOT CRUCE MA - INICIANDO ===
 2025-07-09 21:10:11,249 - INFO - Enviando correo...
 2025-07-09 21:10:14,357 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
 2025-07-09 21:10:16,492 - INFO - Sin señal para BTCUSDT
 2025-07-09 21:10:17,296 - INFO - Sin señal para ETHUSDT
 2025-07-09 21:10:17,297 - INFO - === BOT CRUCE MA - FINALIZADO ===
+time="2025-07-09T21:15:02-03:00" level=warning msg="Found orphan containers ([bot_test-dashboard-1 bot_test-bot_cruce_ma-run-6d57b419bc3b bot_test-bot_cruce_ma-run-2a8e9098e614 bot_test-bot_cruce_ma-run-5cfca5460b81 bot_test-bot_cruce_ma-run-e40d9c98dbd5 bot_test-bot_cruce_ma-run-38d7d083fd84]) for this project. If you removed or renamed this service in your compose file, you can run this command with the --remove-orphans flag to clean it up."
 2025-07-09 21:15:04,724 - INFO - === BOT CRUCE MA - INICIANDO ===
 2025-07-09 21:15:04,724 - INFO - Enviando correo...
 2025-07-09 21:15:07,636 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
 2025-07-09 21:15:09,633 - INFO - Sin señal para BTCUSDT
 2025-07-09 21:15:10,294 - INFO - Sin señal para ETHUSDT
 2025-07-09 21:15:10,295 - INFO - === BOT CRUCE MA - FINALIZADO ===
+ Network bot_test_default  Creating
+ Network bot_test_default  Created
 2025-07-09 22:00:08,083 - INFO - === BOT CRUCE MA - INICIANDO ===
 2025-07-09 22:00:08,086 - INFO - Enviando correo...
 2025-07-09 22:00:11,793 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
@@ -70,14 +29,6 @@
 2025-07-09 23:03:50,763 - INFO - Sin señal para BTCUSDT
 2025-07-09 23:03:51,390 - INFO - Sin señal para ETHUSDT
 2025-07-09 23:03:51,391 - INFO - === BOT CRUCE MA - FINALIZADO ===
-2025-07-09 23:20:51,897 - INFO - === BOT CRUCE MA - INICIANDO ===
-2025-07-09 23:20:51,898 - INFO - Enviando correo...
-2025-07-09 23:20:54,580 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
-2025-07-09 23:20:56,264 - INFO - Sin señal para BTCUSDT
-2025-07-09 23:20:56,891 - INFO - Sin señal para ETHUSDT
-2025-07-09 23:20:57,519 - INFO - Sin señal para BNBUSDT
-2025-07-09 23:20:58,150 - INFO - Sin señal para SOLUSDT
-2025-07-09 23:20:58,150 - INFO - === BOT CRUCE MA - FINALIZADO ===
 2025-07-10 00:00:06,195 - INFO - === BOT CRUCE MA - INICIANDO ===
 2025-07-10 00:00:06,196 - INFO - Enviando correo...
 2025-07-10 00:00:10,155 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
@@ -366,14 +317,110 @@
 2025-07-12 01:00:10,071 - INFO - Sin señal para BNBUSDT
 2025-07-12 01:00:10,768 - INFO - Sin señal para SOLUSDT
 2025-07-12 01:00:10,769 - INFO - === BOT CRUCE MA - FINALIZADO ===
-2025-07-23 19:34:46,595 - INFO - === BOT CRUCE MA - INICIANDO ===
-2025-07-23 19:34:46,597 - INFO - Enviando correo...
-2025-07-23 19:34:50,261 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
-2025-07-23 19:34:52,028 - INFO - Sin señal para BTCUSDT
-2025-07-23 19:34:52,766 - INFO - Sin señal para ETHUSDT
-2025-07-23 19:34:53,459 - INFO - Sin señal para BNBUSDT
-2025-07-23 19:34:54,122 - INFO - Sin señal para SOLUSDT
-2025-07-23 19:34:54,122 - INFO - === BOT CRUCE MA - FINALIZADO ===
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
 2025-07-23 20:00:08,465 - INFO - === BOT CRUCE MA - INICIANDO ===
 2025-07-23 20:00:08,467 - INFO - Enviando correo...
 2025-07-23 20:00:11,033 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
@@ -382,6 +429,8 @@
 2025-07-23 20:00:14,111 - INFO - Sin señal para BNBUSDT
 2025-07-23 20:00:14,736 - INFO - Sin señal para SOLUSDT
 2025-07-23 20:00:14,736 - INFO - === BOT CRUCE MA - FINALIZADO ===
+ Network bot_test_default  Creating
+ Network bot_test_default  Created
 2025-07-24 00:00:03,651 - INFO - === BOT CRUCE MA - INICIANDO ===
 2025-07-24 00:00:03,652 - INFO - Enviando correo...
 2025-07-24 00:00:06,471 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
@@ -390,11 +439,7 @@
 2025-07-24 00:00:09,597 - INFO - Sin señal para BNBUSDT
 2025-07-24 00:00:10,246 - INFO - Sin señal para SOLUSDT
 2025-07-24 00:00:10,247 - INFO - === BOT CRUCE MA - FINALIZADO ===
-2025-07-24 00:20:20,289 - INFO - === BOT CRUCE MA - INICIANDO ===
-2025-07-24 00:20:20,290 - INFO - Enviando correo...
-2025-07-24 00:20:23,382 - INFO - ✅ Correo enviado correctamente a ignacio.chaffin@gmail.com
-2025-07-24 00:20:24,761 - INFO - Sin señal para BTCUSDT
-2025-07-24 00:20:25,382 - INFO - Sin señal para ETHUSDT
-2025-07-24 00:20:26,024 - INFO - Sin señal para BNBUSDT
-2025-07-24 00:20:26,673 - INFO - Sin señal para SOLUSDT
-2025-07-24 00:20:26,674 - INFO - === BOT CRUCE MA - FINALIZADO ===
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?
+Cannot connect to the Docker daemon at unix:///Users/ichaffin/.docker/run/docker.sock. Is the docker daemon running?

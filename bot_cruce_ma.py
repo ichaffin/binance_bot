@@ -27,7 +27,7 @@ logger = logging.getLogger("bot_logger")
 
 client = get_client()
 
-symbols = ["BTCUSDT", "ETHUSDT"]
+symbols = ["BTCUSDT", "ETHUSDT", "BNBUSDT", "SOLUSDT"]
 short_window = 50
 long_window = 200
 usdt_amount = 8.0
