@@ -66,9 +66,6 @@ def main():
             logger.info(f"Sin señal para {symbol}")
 
     logger.info("=== BOT CRUCE MA - FINALIZADO ===")
-    
-    with open("ultima_ejecucion.txt", "w") as f:
-        f.write(datetime.now().strftime("%Y-%m-%d %H:%M"))
 
 if __name__ == "__main__":
     main()
